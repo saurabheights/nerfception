@@ -1,0 +1,3 @@
+[submodule "src/fourier-feature-networks"]
+	path = src/fourier-feature-networks
+	url = git@github.com:saurabheights/fourier-feature-networks.git
